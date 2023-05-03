@@ -7,3 +7,7 @@
     2. 2. Calculadora es llamada por CarroCompra, el cual contiene un Array 5x2. Para multiplicar el precio en el espacio [1] por la cantidad de veces que es comprado el producto, del espacio [0] del Array. 
     2. 3. El contexto problema es calcular el total de precio de los articulos del carro de compra. [Aunque no se use el metodo suma de Calculadora]
 3. De lo anterior, establezca una representación detallada del código fuente, usando un diagrama de clases UML y la herramienta de modelado Visual Paradigm.
+
+4. ![Paradigm](https://github.com/JuanSV22/Calculadora/blob/master/Paradigm1.png?raw=true)
+
+5. ![Compilation](https://github.com/JuanSV22/Calculadora/blob/master/Compilation-Structure.png?raw=true)
