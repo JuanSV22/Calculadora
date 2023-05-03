@@ -12,6 +12,8 @@
     
 3. De lo anterior, establezca una representación detallada del código fuente, usando un diagrama de clases UML y la herramienta de modelado Visual Paradigm.
 
-4. ![Paradigm](https://github.com/JuanSV22/Calculadora/blob/master/Paradigm1.png?raw=true)
+![Paradigm](https://github.com/JuanSV22/Calculadora/blob/master/Paradigm1.png?raw=true)
 
-5. ![Compilation](https://github.com/JuanSV22/Calculadora/blob/master/Compilation-Structure.png?raw=true)
+4. Genere un código fuente Java a partir de su modelo de clases.
+
+![Compilation](https://github.com/JuanSV22/Calculadora/blob/master/Compilation-Structure.png?raw=true)
